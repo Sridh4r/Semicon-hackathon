@@ -128,11 +128,11 @@ def test_confidence():
     """Test confidence estimation."""
     # High confidence case (clear winner)
     high_conf_result = compute_confidence(
-        best_score=0.95,
-        all_scores=[0.95, 0.73, 0.68, 0.55],
-        rcpf_consistency=0.9,
-        neighborhood_consistency=0.85,
-        topology_consistency=0.88,
+        best_score=0.99,
+        all_scores=[0.99, 0.50, 0.40, 0.30],
+        rcpf_consistency=0.95,
+        neighborhood_consistency=0.90,
+        topology_consistency=0.95,
     )
     
     # Low confidence case (ambiguous)

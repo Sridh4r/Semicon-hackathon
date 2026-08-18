@@ -1,13 +1,11 @@
 {
   "sample_id": 1,
   "experiment": "B",
-  "target_x": 456,
-  "target_y": 63,
+  "target_x": 126,
+  "target_y": 126,
   "target_size": 65,
   "reference_size": 6,
   "reference_downscale_factor": 10.0,
-  "seed": 42,
-  "location_seed": 4208033,
   "noise_seed": 101,
   "gaussian_sigma": 10.0
 }

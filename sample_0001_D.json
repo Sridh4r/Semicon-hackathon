@@ -1,12 +1,10 @@
 {
   "sample_id": 1,
   "experiment": "D",
-  "target_x": 456,
-  "target_y": 63,
+  "target_x": 126,
+  "target_y": 126,
   "target_size": 65,
   "reference_size": 6,
   "reference_downscale_factor": 10.0,
-  "seed": 42,
-  "location_seed": 4208033,
-  "contrast_factor": 1.2427414172707698
+  "contrast_factor": 1.0910517477655413
 }
