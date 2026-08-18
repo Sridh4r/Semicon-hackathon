@@ -1,0 +1,1 @@
+"""DRAM generator components."""

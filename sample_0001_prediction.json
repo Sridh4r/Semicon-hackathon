@@ -1,0 +1,12 @@
+{
+  "search": "sample_0001_search.png",
+  "reference": "sample_0001_reference.png",
+  "reference_scale": 1.0,
+  "max_score": 0.40862181782722473,
+  "top_left_x": 324,
+  "top_left_y": 408,
+  "predicted_center_x": 327,
+  "predicted_center_y": 411,
+  "matched_reference_width": 6,
+  "matched_reference_height": 6
+}

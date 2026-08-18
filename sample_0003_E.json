@@ -1,0 +1,15 @@
+{
+  "sample_id": 3,
+  "experiment": "E",
+  "target_x": 252,
+  "target_y": 464,
+  "target_size": 65,
+  "reference_size": 6,
+  "reference_downscale_factor": 10.0,
+  "seed": 42,
+  "location_seed": 4223847,
+  "noise_seed": 732,
+  "gaussian_sigma": 10.0,
+  "blur_radius": 1.2,
+  "contrast_factor": 1.216508896968901
+}

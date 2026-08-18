@@ -1,0 +1,12 @@
+{
+  "sample_id": 3,
+  "experiment": "C",
+  "target_x": 252,
+  "target_y": 464,
+  "target_size": 65,
+  "reference_size": 6,
+  "reference_downscale_factor": 10.0,
+  "seed": 42,
+  "location_seed": 4223847,
+  "blur_radius": 1.2
+}
